@@ -1,4 +1,6 @@
-# cascade-store
+# @winwin/cascade-store
+
+[![NPM version](https://img.shields.io/npm/v/@winwin/cascade-store)](https://www.npmjs.com/package/@winwin/cascade-store)
 
 A simple store work with Array State and Cascade State
 
